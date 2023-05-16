@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/zhongxiao37/release-please-python/compare/v0.0.3...v0.0.4) (2023-05-16)
+
+
+### Features
+
+* zzz ([a388ed2](https://github.com/zhongxiao37/release-please-python/commit/a388ed213b3950b669b8a67e1735142c7e5e00b1))
+
 ## [0.0.3](https://github.com/zhongxiao37/release-please-python/compare/v0.0.2...v0.0.3) (2023-05-16)
 
 
